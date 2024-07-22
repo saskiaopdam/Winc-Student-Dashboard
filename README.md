@@ -1,4 +1,4 @@
-# Student Dashboard
+# Winc Student Dashboard
 *Winc Academy eindopdracht front-end*
 
 ## Deploy
